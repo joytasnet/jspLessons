@@ -1,0 +1,59 @@
+body{
+	display:flex;
+	height:100vh;
+	flex-direction:column;
+	justify-content:space-around;
+	align-items:center;
+	text-align: center;
+	font-family: "Nico Moji";
+	background:#000044;
+	background-repeat: repeat;
+	color:#888;
+	margin: 0;
+  	padding: 0;
+}
+form{
+	font-size:4vmin;
+}
+input{
+	width:9vmin;
+	height:5vmin;
+	font-size:3vmin;
+	margin-top:2vmin;
+}
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+   opacity: 1;
+}
+button{
+	margin-top:4vmin;
+	width:22vmin;
+	height:5vmin;
+	font-size:4vmin;
+	font-family: "Nico Moji";
+	color:#333;
+}
+img{
+	width:8vmin;
+}
+h1,p{
+	font-size:4vmin;
+}
+.billAll{
+	margin-top:8vmin;
+}
+.oneBill{
+	margin-left:1vmin;
+	line-height:0.5;
+}
+.bills{
+	display:flex;
+	align-items:flex-end;
+}
+a.link{
+	text-decoration:none;
+	color:#333;
+}
+.nextbutton{
+	width:28vmin;
+}

@@ -1,0 +1,37 @@
+body{
+	color:red;
+	text-align:center;
+	background-image: url('images/mount.jpeg');
+	background-size: cover;
+}
+
+.full-img{
+    background-image:url(../images/mount.jpeg); /* 画像のURLを指定       */
+    background-size:cover;                 /* 画像のサイズを指定    */
+    width:100%;                              /* 横幅のサイズを指定    */
+    height:600px;                            /* 縦幅のサイズを指定    */
+}
+.cfull-img{
+    background-image:url(../images/city.jpeg); /* 画像のURLを指定       */
+    background-size:cover;                 /* 画像のサイズを指定    */
+    width:100%;                              /* 横幅のサイズを指定    */
+    height:600px;                            /* 縦幅のサイズを指定    */
+}
+.tfull-img{
+    background-image:url(../images/tree.jpeg); /* 画像のURLを指定       */
+    background-size:cover;                 /* 画像のサイズを指定    */
+    width:100%;                              /* 横幅のサイズを指定    */
+    height:600px;                            /* 縦幅のサイズを指定    */
+}
+.rfull-img{
+    background-image:url(../images/road.jpeg); /* 画像のURLを指定       */
+    background-size:cover;                 /* 画像のサイズを指定    */
+    width:100%;                              /* 横幅のサイズを指定    */
+    height:600px;                            /* 縦幅のサイズを指定    */
+}
+a {
+
+color:white;
+text-decoration:underline;
+
+}

@@ -1,0 +1,60 @@
+body {
+
+}
+
+#container {
+	background: url(../images/bg2.png);
+	background-size: cover;
+	min-width: 500px;
+	height: 100vh;
+	width:80vw;
+	margin:0 auto;
+}
+
+h1{
+	margin-top:20px;
+	background:#8a8078;
+	color:#e6e3e0;
+	font-size:5vmin;
+	border:3px solid #543d34;
+	border-radius:8px;
+}
+
+.ug1{
+	min-width: 450px;
+	display: flex;
+	justify-content: space-around;
+}
+
+.ug2{
+	min-width: 450px;
+	width:70vw;
+	margin:auto;
+}
+
+.imageItems{
+	margin:6vmin 0 10vmin 5vmin;
+}
+
+.ug2 img {
+	min-width: 50px;
+	min-height: 50px;
+	width: 9vw;
+	height: 9vw;
+	margin: 3vmin;
+}
+
+.result{
+	width:60vw;
+	margin:0 auto;
+	text-align:center;
+	background:#8a8078;
+	border:3px solid #543d34;
+	border-radius:8px;
+}
+
+p{
+	font-size:3vmin;
+	color:#e6e3e0
+}
+
